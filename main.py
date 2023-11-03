@@ -1,0 +1,8 @@
+print("This is the python code describing the workflow involved while using github.")
+print ("For working using GitHub, the steps involved will be:")
+print ("1. Create a repo on Git.")
+print ("2. Clone the repo in local system.")
+print ("3. Make the required changes in the Local file.")
+print ("4. Add the changes.")
+print ("5. Commit the changes.")
+print ("6. Push the changes.")
